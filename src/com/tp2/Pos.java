@@ -26,8 +26,8 @@ public class Pos {
         maxent(iterations);
         System.out.println("Perceptron");
         perceptron(iterations);
-        System.out.println("Perceptron-Sequence");
-        perceptronSequence(iterations);
+        //System.out.println("Perceptron-Sequence");
+        //perceptronSequence(iterations);
 
 
         System.out.println("Rotula");
@@ -35,8 +35,8 @@ public class Pos {
         maxentTagger();
         System.out.println("Perceptron");
         perceptronTagger();
-        System.out.println("Perceptron-Sequence");
-        perceptronSequTagger();
+        //System.out.println("Perceptron-Sequence");
+        //perceptronSequTagger();
 
 
     }
